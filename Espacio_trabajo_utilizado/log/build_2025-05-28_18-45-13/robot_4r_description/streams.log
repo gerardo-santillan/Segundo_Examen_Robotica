@@ -1,0 +1,19 @@
+[1.351s] Invoking command in '/home/robousr/ros2_ws/src/robot_4r_description': PYTHONPATH=/home/robousr/ros2_ws/build/robot_4r_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/ros2_ws/install/robot_4r_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_4r_description build --build-base /home/robousr/ros2_ws/build/robot_4r_description/build install --record /home/robousr/ros2_ws/build/robot_4r_description/install.log --single-version-externally-managed install_data
+[1.763s] running egg_info
+[1.764s] writing ../../build/robot_4r_description/robot_4r_description.egg-info/PKG-INFO
+[1.765s] writing dependency_links to ../../build/robot_4r_description/robot_4r_description.egg-info/dependency_links.txt
+[1.765s] writing entry points to ../../build/robot_4r_description/robot_4r_description.egg-info/entry_points.txt
+[1.766s] writing requirements to ../../build/robot_4r_description/robot_4r_description.egg-info/requires.txt
+[1.768s] writing top-level names to ../../build/robot_4r_description/robot_4r_description.egg-info/top_level.txt
+[1.768s] reading manifest file '../../build/robot_4r_description/robot_4r_description.egg-info/SOURCES.txt'
+[1.770s] writing manifest file '../../build/robot_4r_description/robot_4r_description.egg-info/SOURCES.txt'
+[1.770s] running build
+[1.770s] running install
+[1.771s] running install_data
+[1.771s] copying urdf/robot_4r.urdf -> /home/robousr/ros2_ws/install/robot_4r_description/share/robot_4r_description/urdf
+[1.772s] running install_egg_info
+[1.776s] removing '/home/robousr/ros2_ws/install/robot_4r_description/lib/python3.10/site-packages/robot_4r_description-0.0.0-py3.10.egg-info' (and everything under it)
+[1.776s] Copying ../../build/robot_4r_description/robot_4r_description.egg-info to /home/robousr/ros2_ws/install/robot_4r_description/lib/python3.10/site-packages/robot_4r_description-0.0.0-py3.10.egg-info
+[1.777s] running install_scripts
+[1.812s] writing list of installed files to '/home/robousr/ros2_ws/build/robot_4r_description/install.log'
+[1.863s] Invoked command in '/home/robousr/ros2_ws/src/robot_4r_description' returned '0': PYTHONPATH=/home/robousr/ros2_ws/build/robot_4r_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/ros2_ws/install/robot_4r_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_4r_description build --build-base /home/robousr/ros2_ws/build/robot_4r_description/build install --record /home/robousr/ros2_ws/build/robot_4r_description/install.log --single-version-externally-managed install_data
